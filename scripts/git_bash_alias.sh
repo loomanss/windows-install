@@ -1,5 +1,5 @@
 #!/bin/bash
-# cat > ~/.bashrc <<  eof
+# cat >> ~/.bashrc <<  eof
 # ff www.google.com => will open gui
 # opengit wil open remote git repository in firefox
 alias ff='/c/"Program Files (x86)"/"Mozilla Firefox"/firefox.exe'
